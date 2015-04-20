@@ -3,7 +3,13 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.vinod</groupId>
   <artifactId>jsparrow</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <packaging>pom</packaging>
   <name>jsparrow</name>
+
+  <modules>
+    <module>jsparrow-server</module>
+    <module>jsparrow-client</module>
+  </modules>
+
 </project>
